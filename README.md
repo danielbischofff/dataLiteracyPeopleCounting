@@ -24,3 +24,8 @@ TODOS
 - Have a meeting with everybody this week to decide on the most pressing data gathering details before we start the official tracking operation
 - Open GitHub and discuss all technical issues there
 - (Suggestion) start estimating the workload with a chart like this (https://app.teamgantt.com/projects/gantt?ids=3762131, currently invited you but apparently only 3 ppl can join in the free version) so that we can better determine priorities and time ressources
+
+## Tutorium 6 Dez 
+
+- maybe collect different data (like counting)
+- find out how the protocols work (when does the MAC Adress chang)
