@@ -1,9 +1,0 @@
--15
--28
-timestamp = 9:49
-38 people in the room at 9:51
-97 people in the room at 10:13
-117 people in the room at 10:15
-119 people in the room at 10:16
-120 people in the room at 10:17
-5 people in the room at 10:51
